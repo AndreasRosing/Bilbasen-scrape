@@ -8,4 +8,4 @@ scrape_and_clean_bilbasen.R - script containing all of the script scraping_bilba
 
 Note that the cleaning process is specific to each car manufacturer, as an example stationcars have the addition "Variant"  to the names of VW cars and "Avant" for Audi's. Hence they must be tailored to the cars needed. The few cars where cleaning steps are taken belong to a group of interest to myself. However, the general process is the same for different manufacturers and it is fairly easily adaptable to other cars.
 
-A short description of the variables targeted for scraping and the final variables created by the cleaning process is part of this analysis:
+A short description of the variables targeted for scraping and the final variables created by the cleaning process is part of the analysis performed in the markdown document Bilbasen_algoritm_test.md in this repository.
