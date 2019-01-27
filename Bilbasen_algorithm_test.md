@@ -61,7 +61,7 @@ The data set scraped from bilbasen.dk contains the variables `model`, `place`, `
 
 The starting page of a Volkswagen Passat with available information in hmtl format is shown here:
 
-![welcome\_BB\_passat](Bilbasen_algoritm_test_files/figure-markdown_github/welcome_BB_passat.png)
+<img src="Bilbasen_algorithm_test_files/figure-markdown_github/welcome_BB_passat.png" width="850px" />
 
 The first variable, `model`, is a mixed text string containing a various information about the car. This variable is used to extract values to the variables in the cleaned up data set:
 
